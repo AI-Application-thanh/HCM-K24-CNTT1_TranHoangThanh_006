@@ -1,11 +1,6 @@
 # LỊCH SỬ PROMPT ENGINEERING (PROMPT_HISTORY.MD)
 ## Dự án: Core Banking - Phân Hệ Duyệt Hồ Sơ Vay Tín Chấp (Loan Application)
 
-> [!IMPORTANT]
-> File tài liệu này tổng hợp toàn bộ các câu **Prompt tiêu chuẩn** được thiết kế bởi **Prompt Engineer** cho sinh viên/developer tương tác với AI trong quá trình hoàn thiện bài tập lớn Core Banking.
-> Mỗi câu prompt tuân thủ nghiêm ngặt **5 thành phần bắt buộc**: **Role - Goal - Context - Constraint - Format**.
-
----
 
 ## 📌 PHẦN I: KHỞI TẠO & ĐỌC HIỂU DỰ ÁN BASE CODE
 
